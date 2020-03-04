@@ -3,5 +3,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.github
 
 node_modules/
